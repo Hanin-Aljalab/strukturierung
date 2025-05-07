@@ -8,20 +8,19 @@ Ziel ist die Implementierung einer **unveränderlichen (immutable)** Klasse `Vek
 
 ## 🔧 Funktionen der Klasse `Vektor`
 
-- ✅ Erstellen von Vektoren mit x-, y-, z-Komponenten  
-- ✅ Nullvektor erzeugen  
-- ✅ Komponenten auslesen (`getX`, `getY`, `getZ`, `toArray`)  
-- ✅ Addition & Subtraktion  
-- ✅ Skalarmultiplikation (mit Zahl oder Vektor)  
-- ✅ Kreuzprodukt  
-- ✅ Betrag (Länge) berechnen  
-- ✅ Einheitsvektor erzeugen  
-- ✅ Prüfung auf Kollinearität  
-- ✅ Winkel zwischen zwei Vektoren berechnen  
-- ✅ `equals()`-Methode zur Vergleichbarkeit  
-- ✅ `toString()` zur Ausgabe als Zeichenkette  
-- ✅ Dokumentation aller Methoden mit JavaDoc
-
+- Anlegen eines neuen Vektors und Befüllen des Vektors mit Daten
+- Erzeugen eines Nullvektors (alle drei Komponenten [x,y,z] sind 0)
+- Addieren zweier Vektoren
+- Subtrahieren zweier Vektoren
+- Auslesen einzelner Komponenten x,y und z
+- Auslesen aller Komponenten auf einmal als Array
+- Multiplikation des Vektors mit einem Skalar
+- Skalarmultiplikation zweier Vektoren
+- Kreuzprodukt zweier Vektoren
+- Erzeugung des Einheitsvektors aus einem gegebenen Vektor (d.h. Vektor der Länge 1 mit derselben Richtung wie der ursprüngliche Vektor)
+- Berechnung des Betrages (der Länge) eines Vektors
+- Test, ob zwei Vektoren kollinear (parallel oder antiparallel) sind
+- Bestimmen des eingeschlossenen Winkels zweier Vektoren
 ---
 
 ## 🧪 Tests (JUnit)
