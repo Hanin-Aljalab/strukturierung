@@ -1,13 +1,5 @@
 # 📐 Vektor
 
-**🎓 Benotetes Assignment – Medizinische Informatik**  
-📆 **Abgabe bis: 13.04.2025**
-
-## 📁 Paketstruktur
-
-Alle Klassen befinden sich im Paket:  
-`pr2.strukturierung.vektor`
-
 ---
 
 ## 🛠️ Ziel des Projekts
