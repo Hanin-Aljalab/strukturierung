@@ -1,7 +1,5 @@
 # 📐 Vektor
 
----
-
 ## 🛠️ Ziel des Projekts
 
 Ziel ist die Implementierung einer **unveränderlichen (immutable)** Klasse `Vektor` zur Darstellung und Berechnung dreidimensionaler Vektoren mit reellen Komponenten (Datentyp `double`). Die Klasse soll zentrale Vektoroperationen wie Addition, Kreuzprodukt oder Kollinearität unterstützen.
