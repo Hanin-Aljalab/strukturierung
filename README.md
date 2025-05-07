@@ -68,12 +68,3 @@ Zur Validierung wurden gezielte Tests implementiert.
 
 ### Kombination
 - `[(−1, 5, −2) × (2, 1, 2)] · (2, 0, 5) = -31`
-
----
-
-## ▶️ Ausführen & Testen
-
-### Kompilieren & Ausführen
-
-```bash
-javac pr2/strukturierung/vektor/Vektor.java
